@@ -1,15 +1,5 @@
-'''
+# Day 1, Part 1
 
-3   4
-4   3
-2   5
-1   3
-3   9
-3   3
-
-'''
-
-# parsing 
 
 with open('./inp.txt') as f:
     lines = f.read().split()
